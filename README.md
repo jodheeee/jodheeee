@@ -24,4 +24,4 @@
 <a><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/><a/>
   
-#### Thank you 👾
+### Thank you 👾
