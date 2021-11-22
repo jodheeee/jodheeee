@@ -3,7 +3,7 @@
 <br/>
 <b>hobby is basketball 🏀</b>
 <br/>
-<b>BLOG </b><a href="https://velog.io/@jodheeee" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+#### BLOG <a href="https://velog.io/@jodheeee" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <br/>
 
 ## BackEnd Stack 
