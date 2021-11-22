@@ -1,10 +1,10 @@
-## 🧑🏻‍💻 About Me
+## 🧑🏻‍💻 ▸ About Me
 <b>I am a web developer who enjoys a sense of accomplishment.</b>
 <br/>
 <b>hobby is basketball 🏀</b>
 #### <a href="https://velog.io/@jodheeee" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-## BackEnd Stack 
+## ▸ BackEnd Stack 
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/><a/>
@@ -14,7 +14,7 @@
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/Nginx-00963?style=flat-square&logo=NGINX&logoColor=white"/><a/>
 <br/>
-## FrontEnd Stack
+## ▸ FrontEnd Stack
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><a/>
