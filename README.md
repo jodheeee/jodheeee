@@ -2,10 +2,8 @@
 <b>I am a web developer who enjoys a sense of accomplishment.</b>
 <br/>
 <b>hobby is basketball 🏀</b>
-#### BLOG 
-<a href="https://velog.io/@jodheeee" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
-</a>
+#### <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+
 <br/>
 
 ## BackEnd Stack 
