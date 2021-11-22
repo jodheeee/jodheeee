@@ -1,4 +1,4 @@
-## 🧑🏻‍💻 ▸ About Me
+## ▸ About Me
 <b>I am a web developer who enjoys a sense of accomplishment.</b>
 <br/>
 <b>hobby is basketball 🏀</b>
