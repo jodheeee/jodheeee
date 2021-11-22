@@ -1,5 +1,4 @@
-#### About Me
-<hr/>
+## About Me
  - I am a web developer who enjoys a sense of accomplishment.
 
 #### BackEnd Stack
