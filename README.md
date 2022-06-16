@@ -2,7 +2,7 @@
 
 ## ▪︎ Blog
 <a href="https://velog.io/@jodheeee" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<br/>
+<br/><br/>
 
 ## ▪︎ Stack
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><a/>
@@ -25,6 +25,6 @@
 <br/>
 
   
-<br/>
+<br/><br/>
   
 ### Thank you 👾
