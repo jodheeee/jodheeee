@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=210&text=Welcome!&desc=DaeHee-GitHub&descAlignY=52&descAlign=88&fontAlign=79&fontAlignY=30&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=210&text=Welcome!&desc=DaeHee-GitHub&descAlignY=52&descAlign=89&fontAlign=79&fontAlignY=30&color=gradient)
 
 ## ▪︎ Blog
 <a href="https://velog.io/@jodheeee" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
