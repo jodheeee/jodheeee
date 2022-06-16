@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&desc=DaeHee-GitHub&descAlignY=52&descAlign=89&fontAlign=79&fontAlignY=30&color=gradient)
 
-## ▪︎ Blog
-<a href="https://velog.io/@jodheeee" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<br/><br/><br/>
+<br/>
 
 ## ▪︎ Stack
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><a/>
@@ -22,9 +20,13 @@
 <a><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/Nginx-00963?style=flat-square&logo=NGINX&logoColor=white"/><a/>
-<br/>
+<br/><br/>
 
+## ▪︎ Blog
+<a href="https://velog.io/@jodheeee" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   
 <br/><br/>
   
 ## Thank you 👾
+  
+<br/>
