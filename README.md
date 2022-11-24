@@ -17,7 +17,3 @@
 <br/><br/>
 
 <hr/>
-<a href="https://velog.io/@jodheeee" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
- 
-  
-<br/>
