@@ -8,10 +8,7 @@
 <a><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><a/>
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/><a/>
 <br/><br/>
-<a><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><a/>
-<a><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><a/>
 <a><img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=white"/><a/>
-<br/>
 <a><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/><a/>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/><a/>
 <br/><br/>
